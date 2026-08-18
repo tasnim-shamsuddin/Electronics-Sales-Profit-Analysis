@@ -1,2 +1,2 @@
 # Electronics-Sales-Profit-Analysis
-Sales and Profit Analysis Dashboard 
+Interactive Power BI dashboard for sales, profit, product and performance analysis.
